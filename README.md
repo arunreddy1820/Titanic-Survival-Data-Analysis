@@ -1,3 +1,16 @@
+- This project is a Python program that analyzes Titanic passenger data and predicts survival based on various features. It is designed for learning purposes and data analysis practice.
+
+
+## Features
+- Load and clean Titanic dataset
+- Analyze numerical and categorical features
+- Visualize data using plots
+- Predict survival using simple models
+
+
+
+
+
 #image-1
 * Most passengers didnot survive
 * The 3rd class was the most populated followed by 1st and 2nd
@@ -32,3 +45,4 @@
 * The `Title` feature gives us powerful information. 'Mrs' and 'Miss' (females) had high survival rates. 'Mr' (males) had a very low survival rate. 'Master' (young boys)
   had a significantly higher survival rate than 'Mr', reinforcing the 'children first' idea. The 'Rare' titles, often associated with nobility or status, also had a mixed
   but generally higher survival rate than common men.
+
